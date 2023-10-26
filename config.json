@@ -1,0 +1,18 @@
+{
+  "CaptureMode": 3,
+  "CaptureFramerate": 60,
+  "CaptureDesktopNumber": 0,
+  "CaptureDesktop": false,
+  "ThirdPerson": true,
+  "useIPC": true,
+  "useSkybox": false,
+  "Skybox": 0,
+  "PhysicFPS": 90.0,
+  "HandSize": 7.0,
+  "HandPosition": [
+    1.0,
+    1.0,
+    -3.0
+  ],
+  "Height": 0.071241990011185474
+}
